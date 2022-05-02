@@ -1,0 +1,3 @@
+/home/plott/CLionProjects/FileReadWrite/cmake-build-debug/CMakeFiles/FileReadWrite.dir
+/home/plott/CLionProjects/FileReadWrite/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/plott/CLionProjects/FileReadWrite/cmake-build-debug/CMakeFiles/rebuild_cache.dir

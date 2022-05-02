@@ -1,0 +1,3 @@
+/home/plott/CLionProjects/Structures/cmake-build-debug/CMakeFiles/Structures.dir
+/home/plott/CLionProjects/Structures/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/plott/CLionProjects/Structures/cmake-build-debug/CMakeFiles/rebuild_cache.dir

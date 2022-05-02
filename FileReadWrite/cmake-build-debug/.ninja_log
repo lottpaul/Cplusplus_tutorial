@@ -1,0 +1,9 @@
+# ninja log v5
+0	732	1650034097238440593	CMakeFiles/FileReadWrite.dir/main.cpp.o	1d961d91c0b62b02
+1	554	1650033936007124954	CMakeFiles/FileReadWrite.dir/read_file.cpp.o	b4dde6c0850b1614
+732	805	1650034097310440286	FileReadWrite	a61cafe42ea7513a
+1	722	1649876847480500650	CMakeFiles/FileReadWrite.dir/write_file.cpp.o	515e0eb0d041918d
+1	418	1650652878129869260	CMakeFiles/FileReadWrite.dir/write_file.cpp.o	515e0eb0d041918d
+0	502	1650652878213868889	CMakeFiles/FileReadWrite.dir/main.cpp.o	1d961d91c0b62b02
+1	598	1650652878309868467	CMakeFiles/FileReadWrite.dir/read_file.cpp.o	b4dde6c0850b1614
+598	670	1650652878381868149	FileReadWrite	a61cafe42ea7513a

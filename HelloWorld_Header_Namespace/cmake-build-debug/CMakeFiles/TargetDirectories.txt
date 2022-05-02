@@ -1,0 +1,3 @@
+/home/plott/CLionProjects/HelloWorld_Header_Namespace/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/plott/CLionProjects/HelloWorld_Header_Namespace/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/plott/CLionProjects/HelloWorld_Header_Namespace/cmake-build-debug/CMakeFiles/HelloWorld_Header_Namespace.dir

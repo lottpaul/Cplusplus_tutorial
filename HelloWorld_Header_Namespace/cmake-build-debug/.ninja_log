@@ -1,0 +1,4 @@
+# ninja log v5
+0	367	1649694216278512222	CMakeFiles/HelloWorld_Header_Namespace.dir/main.cpp.o	3fe8fb1d6163ed81
+1	369	1649694216278512222	CMakeFiles/HelloWorld_Header_Namespace.dir/Basic.cpp.o	73b96d42f6f3f17d
+369	432	1649694216342511923	HelloWorld_Header_Namespace	52b5df23104bfef2
