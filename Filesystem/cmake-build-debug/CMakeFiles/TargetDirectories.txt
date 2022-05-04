@@ -1,0 +1,3 @@
+/home/plott/CLionProjects/Filesystem/cmake-build-debug/CMakeFiles/Filesystem.dir
+/home/plott/CLionProjects/Filesystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/plott/CLionProjects/Filesystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
