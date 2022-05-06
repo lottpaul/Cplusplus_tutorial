@@ -8,10 +8,10 @@ class Seq{
     std::string s;
 public:
     Seq(std::string& seq);
-//    bool operator<(const Seq& a) const{
-//        return this->s < a.s;
-//    }
-//    friend std::ostream& operator<<(std::ostream& out, const Seq& seq);
+    bool operator<(const Seq& a) const{
+        return this->s.size() < a.s.size();
+    }
+    friend std::ostream& operator<<(std::ostream& out, const Seq& seq);
 };
 
 Seq::Seq(std::string& seq){
@@ -22,6 +22,7 @@ class Kmers{
     std::vector<Seq> kmers;
 public:
     void add(Seq& s);
+    //Seq& operator[](const int a);
     void print_ordered();
 };
 
@@ -31,18 +32,18 @@ void Kmers::add(Seq& s){
 
 void Kmers::print_ordered(){
     std::sort(kmers.begin(), kmers.end());
-//    for(auto i: kmers){
-//        std::cout << i << std::endl;
-//    }
+    for(auto i: kmers){
+        std::cout << i << std::endl;
+    }
 }
 
 // See https://www.geeksforgeeks.org/overloading-stream-insertion-operators-c/
 // For explanation about why we have to make it a friend of Seq
 // and can't just overload the operator<< in Seq.
-//std::ostream& operator<< (std::ostream &out, const Seq& seq){
-//    out << seq.s;
-//    return out;
-//}
+std::ostream& operator<< (std::ostream &out, const Seq& seq){
+    out << seq.s;
+    return out;
+}
 
 void print_sorted_vector(std::vector<std::string> seqs){
     std::sort(seqs.begin(), seqs.end());
@@ -53,8 +54,11 @@ void print_sorted_vector(std::vector<std::string> seqs){
 
 
 int main() {
-    std::vector<std::string> seqs {"ACT", "CGT", "CCC", "TTT", "NACT", "NNAD", "NVHB", "AAA", "ABC"};
-    print_sorted_vector(seqs);
+    std::vector<std::string> seqs {"A","ACT", "CGT", "CCC", "TTT", "NACT", "NNAD", "NVHB", "AAA", "ABC", "T"};
+
+    std::cout << seqs[0] << std::endl;
+
+    //print_sorted_vector(seqs);
     Kmers k;
     for(auto i: seqs){
         Seq s(i);

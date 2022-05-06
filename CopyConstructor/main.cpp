@@ -52,7 +52,7 @@ void String::operator=(const String& str) {
 int main()
 {
     String str1("C++ is fun");
-    String str2 = str1;
+    String str2(str1);
     String str3 = str1;
 
     std::cout << "First Round of Printing" <<std::endl;
