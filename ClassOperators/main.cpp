@@ -36,6 +36,9 @@ void Kmers::print_ordered(){
 //    }
 }
 
+// See https://www.geeksforgeeks.org/overloading-stream-insertion-operators-c/
+// For explanation about why we have to make it a friend of Seq
+// and can't just overload the operator<< in Seq.
 //std::ostream& operator<< (std::ostream &out, const Seq& seq){
 //    out << seq.s;
 //    return out;
