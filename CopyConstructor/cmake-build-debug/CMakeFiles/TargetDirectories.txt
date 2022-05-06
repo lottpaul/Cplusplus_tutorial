@@ -1,0 +1,3 @@
+/home/plott/CLionProjects/CopyConstructor/cmake-build-debug/CMakeFiles/CopyConstructor.dir
+/home/plott/CLionProjects/CopyConstructor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/plott/CLionProjects/CopyConstructor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
