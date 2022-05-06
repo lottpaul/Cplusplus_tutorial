@@ -1,0 +1,3 @@
+/home/plott/CLionProjects/ClassOperators/cmake-build-debug/CMakeFiles/ClassOperators.dir
+/home/plott/CLionProjects/ClassOperators/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/plott/CLionProjects/ClassOperators/cmake-build-debug/CMakeFiles/rebuild_cache.dir
