@@ -1,0 +1,3 @@
+/home/plott/CLionProjects/Car/cmake-build-debug/CMakeFiles/Car.dir
+/home/plott/CLionProjects/Car/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/plott/CLionProjects/Car/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -105,6 +105,7 @@ public:
     Nucleotide complement();
     Nucleotide reverse_comlement();
     Nucleotide transcribe();
+
 };
 
 

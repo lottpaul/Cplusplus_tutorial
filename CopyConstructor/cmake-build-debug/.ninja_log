@@ -1,0 +1,16 @@
+# ninja log v5
+0	390	1651848851123767096	CMakeFiles/CopyConstructor.dir/main.cpp.o	a259c6e06322accf
+391	461	1651848851191766803	CopyConstructor	d690a8fec4dcd9b5
+1	486	1651848938751387876	CMakeFiles/CopyConstructor.dir/main.cpp.o	a259c6e06322accf
+486	554	1651848938819387581	CopyConstructor	d690a8fec4dcd9b5
+1	381	1651849481960991291	CMakeFiles/CopyConstructor.dir/main.cpp.o	a259c6e06322accf
+381	442	1651849482020991023	CopyConstructor	d690a8fec4dcd9b5
+1	418	1651849559164646630	CMakeFiles/CopyConstructor.dir/main.cpp.o	a259c6e06322accf
+418	485	1651849559232646327	CopyConstructor	d690a8fec4dcd9b5
+2	540	1651849598836469278	CMakeFiles/CopyConstructor.dir/main.cpp.o	a259c6e06322accf
+1	363	1651849622936361465	CMakeFiles/CopyConstructor.dir/main.cpp.o	a259c6e06322accf
+363	431	1651849623004361161	CopyConstructor	d690a8fec4dcd9b5
+1	378	1651849702520005080	CMakeFiles/CopyConstructor.dir/main.cpp.o	a259c6e06322accf
+378	445	1651849702584004793	CopyConstructor	d690a8fec4dcd9b5
+2	529	1651849858303306096	CMakeFiles/CopyConstructor.dir/main.cpp.o	a259c6e06322accf
+529	597	1651849858371305791	CopyConstructor	d690a8fec4dcd9b5
